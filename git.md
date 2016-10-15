@@ -8,5 +8,8 @@
 ##git pull
 >git pull = git fetch+merge
 >拉取得代码
-
+##git checkout
+>git branch xx 新建xxx分支
+>git checkout xxx 切换到xxx分支
+>git checkout -b xxx 新建xxx分支并切换到xxx分支
 
