@@ -3,3 +3,6 @@
 >git clone git@github.com:fanfanaicocoa/blog.git
 `拉取git仓库`
 
+##git pull
+>git pull = git fetch+merge
+
