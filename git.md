@@ -16,5 +16,6 @@
 >首先切换到A分支
 >git merge b
 >B分支上的内容就合并到A上了
+>git branch -d b 删除b分支
 
 
