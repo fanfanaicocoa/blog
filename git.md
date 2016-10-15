@@ -12,4 +12,9 @@
 >git branch xx 新建xxx分支
 >git checkout xxx 切换到xxx分支
 >git checkout -b xxx 新建xxx分支并切换到xxx分支
+##git merge
+>首先切换到A分支
+>git merge b
+>B分支上的内容就合并到A上了
+
 
