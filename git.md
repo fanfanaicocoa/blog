@@ -4,7 +4,10 @@
 `拉取git仓库`
 ##git fetch
 >git fetch 拿到全部远程分之放到.git/FETCH_HEAD里
+<<<<<<< HEAD
 
 ##git pull
 >git pull = git fetch+merge
+=======
+>>>>>>> refs/remotes/origin/master
 
